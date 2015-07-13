@@ -1,0 +1,7 @@
+*.lock
+vendor/
+build/
+cache/
+logs/
+configs/
+config/
