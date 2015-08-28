@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/dvomedia/sso-skeleton.svg)
+
 ### Readme
 
 To create a client/consumer<br/>
